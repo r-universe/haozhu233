@@ -1,0 +1,10 @@
+[
+  {
+    "package": "giphyr",
+    "oncran": true
+  },
+  {
+    "package": "kableExtra",
+    "oncran": true
+  }
+]

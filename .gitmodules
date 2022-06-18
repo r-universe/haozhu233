@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "giphyr"]
+	path = giphyr
+	url = https://github.com/haozhu233/giphyr
+	shallow = true
+	registered = true
+[submodule "kableExtra"]
+	path = kableExtra
+	url = https://github.com/haozhu233/kableextra
+	shallow = true
+	registered = true
