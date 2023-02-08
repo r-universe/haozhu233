@@ -2,5 +2,8 @@
   {
     "package": "kableExtra",
     "oncran": true
+  },
+  {
+    "package": "giphyr"
   }
 ]

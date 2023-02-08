@@ -8,3 +8,8 @@
 	url = https://github.com/haozhu233/kableextra
 	shallow = true
 	registered = true
+[submodule "giphyr"]
+	path = giphyr
+	url = https://github.com/haozhu233/giphyr
+	shallow = true
+	registered = true
