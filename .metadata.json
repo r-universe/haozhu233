@@ -1,9 +1,9 @@
 [
   {
-    "package": "kableExtra",
-    "oncran": true
+    "package": "giphyr"
   },
   {
-    "package": "giphyr"
+    "package": "kableExtra",
+    "oncran": true
   }
 ]
